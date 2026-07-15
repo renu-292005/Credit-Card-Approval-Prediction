@@ -170,4 +170,14 @@ https://credit-card-approval-prediction-ydd5.onrender.com/
 <img width="1920" height="1080" alt="home page" src="https://github.com/user-attachments/assets/9dfbe2e2-2666-4781-a3f2-59e88d08cc2f" />
 
 
+🚀 Future Scope
 
+🔹 Improve Prediction Accuracy – Train the model with larger and more diverse datasets to enhance performance.
+
+🔹 Use Advanced AI Models – Implement algorithms like XGBoost, LightGBM, and Deep Learning for better prediction results.
+
+🔹 Real-Time Decision Making – Integrate the system with live applicant data to provide instant credit approval decisions.
+
+🔹 Fraud Detection – Add fraud detection mechanisms to identify suspicious or fake credit card applications.
+
+🔹 Explainable AI (XAI) – Provide clear explanations for approval or rejection decisions, improving transparency and user trust.
